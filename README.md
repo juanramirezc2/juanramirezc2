@@ -18,7 +18,7 @@ I am obsessed with expanding my craft, solving challenging problems and staying 
 - ⚡ Fun fact: ...
 
 ## Get in touch around the web 🌍
-- Making video about web development on [YouTube](https://www.youtube.com/channel/UCi0J3yA3m5CuyR8E-0SE23w) 📼
+- Making videos about web development on [YouTube](https://www.youtube.com/channel/UCi0J3yA3m5CuyR8E-0SE23w) 📼
 - Sharing tips and setup pics on [Instagram](https://instagram.com/juangabrielrc) 📸
 -  Learning and sharing in public on [Twitch](https://twitch.tv/juangabrielr4) 📹 👨🏽‍💻
 - Sharing updates on [Twitter](https://twitter.com/juangabrielr4) 🐦
