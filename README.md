@@ -15,7 +15,7 @@ I am obsessed with expanding my craft, solving challenging problems and staying 
 - 💬 Ask me about React
 - 📫 How to reach me: [codegabo@gmail.com](mailto:codegabo@gmail.com)
 - 😄 Pronouns: him / his
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: i'm a jquery enthuciast 
 
 ## Get in touch around the web 🌍
 - Making videos about web development on [YouTube](https://www.youtube.com/channel/UCi0J3yA3m5CuyR8E-0SE23w) 📼
