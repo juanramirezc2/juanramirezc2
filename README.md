@@ -13,7 +13,7 @@ I am obsessed with expanding my craft, solving challenging problems and staying 
 - 🌱 I’m currently learning typescript
 - 👯 I’m looking to collaborate on Interesting projects around the globe 🌏
 - 💬 Ask me about React
-- 📫 How to reach me: ...
+- 📫 How to reach me: [codegabo@gmail.com](mailto:codegabo@gmail.com)
 - 😄 Pronouns: him / his
 - ⚡ Fun fact: ...
 
