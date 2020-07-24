@@ -1,0 +1,22 @@
+@font-face {
+    font-family: "Cascadia Code";
+    font-style: normal;
+    font-weight: 200;
+    src: url('https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/CascadiaCode/complete/Caskaydia%20Cove%20Regular%20Nerd%20Font%20Complete.ttf?raw=true') format('truetype');
+}
+@font-face {
+    font-family: "Cascadia Code";
+    font-style: normal;
+    font-weight: 400;
+    src: url('https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/CascadiaCode/complete/Caskaydia%20Cove%20Regular%20Nerd%20Font%20Complete.ttf?raw=true') format('truetype');
+}
+@font-face {
+    font-family: "Cascadia Code";
+    font-weight: 600;
+    src: url('https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/CascadiaCode/complete/Caskaydia%20Cove%20Regular%20Nerd%20Font%20Complete.ttf?raw=true') format('truetype');
+}
+@font-face {
+    font-family: "Cascadia Code";
+    font-weight: 800;
+    src: url('https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/CascadiaCode/complete/Caskaydia%20Cove%20Regular%20Nerd%20Font%20Complete.ttf?raw=true') format('truetype');
+}
