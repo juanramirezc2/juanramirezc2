@@ -12,7 +12,7 @@ I am obsessed with expanding my craft, solving challenging problems and staying 
 - 📫 How to reach me: [contact@juangabriel.dev](mailto:contact@juangabriel.dev)
 
 ## Get in touch around the web 🌍
-- Making videos about web development on [YouTube](https://www.youtube.com/channel/UCi0J3yA3m5CuyR8E-0SE23w) 📼
-- Learning and sharing in public on [Twitch](https://twitch.tv/juangabrielr4) 📹 👨🏽‍💻
-- Sharing updates on [Twitter](https://twitter.com/JuanRamirezC_) �
-- And my [Personal Site](https://juangabriel.dev) 🌍
+- Making videos about web development on [YouTube](https://www.youtube.com/channel/UCi0J3yA3m5CuyR8E-0SE23w)
+- Learning and sharing in public on [Twitch](https://twitch.tv/juangabrielr4) 
+- Sharing updates on [Twitter](https://twitter.com/JuanRamirezC_) 
+- And my [Personal Site](https://juangabriel.dev)
