@@ -1,4 +1,4 @@
-# Hi, I'm Juan Gabriel 👋🏽 👨🏽‍💻
+# Hi, I'm Juan Gabriel
 
 With over 10+ years of experience in the web development world, my biggest goal is to help companies by bringing 
 simple solutions to complex problems.
